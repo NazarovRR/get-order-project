@@ -1,0 +1,98 @@
+{
+	"orders":[
+		{
+			"total_cost":"6200",
+			"order_time":"2016-04-07T12:00:00",
+			"positions":[
+				{
+					"name":"Baked duck",
+					"quantity":"2",
+					"weight":"800g",
+					"pos_cost":"2000",
+					"order_cost":"4000"
+				},
+				{
+					"name":"French fries",
+					"quantity":"4",
+					"weight":"200g",
+					"pos_cost":"400",
+					"order_cost":"1600"
+				},
+				{
+					"name":"Orange juice",
+					"quantity":"1",
+					"weight":"1000g",
+					"pos_cost":"600",
+					"order_cost":"600"
+				}
+			]
+		},
+		{
+			"total_cost":"8900",
+			"order_time":"2016-04-06T11:33:12",
+			"positions":[
+				{
+					"name":"Fork steak",
+					"quantity":"1",
+					"weight":"1200g",
+					"pos_cost":"2500",
+					"order_cost":"2500"
+				},
+				{
+					"name":"Caesar salad",
+					"quantity":"3",
+					"weight":"400g",
+					"pos_cost":"1600",
+					"order_cost":"4800"
+				},
+				{
+					"name":"Duff bear",
+					"quantity":"1",
+					"weight":"500g",
+					"pos_cost":"700",
+					"order_cost":"700"
+				},
+				{
+					"name":"Allegrini Soave white wine",
+					"quantity":"2",
+					"weight":"150g",
+					"pos_cost":"450",
+					"order_cost":"900"
+				}
+			]
+		},
+		{
+			"total_cost":"151200",
+			"order_time":"2016-04-07T08:15:16",
+			"positions":[
+				{
+					"name":"Taco",
+					"quantity":"1",
+					"weight":"650g",
+					"pos_cost":"1200",
+					"order_cost":"1200"
+				},
+				{
+					"name":"Glass of water",
+					"quantity":"1",
+					"weight":"250g",
+					"pos_cost":"150000",
+					"order_cost":"150000"
+				}
+			]
+		},
+		{
+			"total_cost":"6800",
+			"order_time":"2016-01-01T03:00:00",
+			"positions":[
+				{
+					"name":"The cat shawerma",
+					"quantity":"4",
+					"weight":"800g",
+					"pos_cost":"1700",
+					"order_cost":"6800"
+				}
+			]
+		}		
+	]
+}
